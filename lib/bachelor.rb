@@ -44,7 +44,7 @@ end
 puts data.keys
 puts data.keys[0]
 def get_contestant_name(data, occupation)
-  
+
   # code here
 end
 
