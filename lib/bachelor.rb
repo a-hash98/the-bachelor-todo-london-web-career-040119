@@ -1,7 +1,7 @@
 def get_first_name_of_season_winner(data, season)
-  for i in data[:season][:status]
-    if i == "Winner"
-      return "yes"
+  for i in data[:season][i][:status]
+    if data[:season][i][:status] == "Winner"
+      return [:season][i][:name].split.first
     end
   end
   # code here
