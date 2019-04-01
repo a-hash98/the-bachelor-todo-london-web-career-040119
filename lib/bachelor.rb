@@ -41,8 +41,8 @@ def get_first_name_of_season_winner(data, season)
   end
   # code here
 end
-puts data.keys
-puts data.keys[0]
+#puts data.keys
+#puts data.keys[0]
 puts data[0][:occupation]
 def get_contestant_name(data, occupation)
 
