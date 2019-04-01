@@ -1,4 +1,4 @@
-data = { 
+data = {
   "season 30": [
     {
       "name":      "Beth Smalls",
