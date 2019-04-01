@@ -41,9 +41,10 @@ def get_first_name_of_season_winner(data, season)
   end
   # code here
 end
-
+puts data.keys
+puts data.keys[0]
 def get_contestant_name(data, occupation)
-  for i in data
+  
   # code here
 end
 
